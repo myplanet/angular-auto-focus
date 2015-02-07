@@ -6,7 +6,7 @@
   "authors": [
     "Ates Goral <ates.g@myplanetdigital.com>"
   ],
-  "description": "Digest-cycle-friendly auto-focusing for focusable elements",
+  "description": "Bullet-proof auto-focusing for Angular",
   "moduleType": [
     "amd",
     "globals",
