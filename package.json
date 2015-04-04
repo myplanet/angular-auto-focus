@@ -3,21 +3,18 @@
   "version": "1.0.2",
   "description": "Bullet-proof auto-focusing for Angular",
   "main": "angular-auto-focus.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/myplanetdigital/angular-auto-focus.git"
+    "url": "git://github.com/myplanet/angular-auto-focus.git"
   },
   "keywords": [
     "angular",
     "autofocus",
     "focus"
   ],
-  "author": "Ates Goral <ates@myplanet.com>",
+  "author": "Ates Goral <ates.g@myplanet.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/myplanetdigital/angular-auto-focus/issues"
+    "url": "https://github.com/myplanet/angular-auto-focus/issues"
   }
 }
