@@ -13,7 +13,8 @@
     "node"
   ],
   "keywords": [
-    "autofocus"
+    "autofocus",
+    "focus"
   ],
   "license": "MIT"
 }
