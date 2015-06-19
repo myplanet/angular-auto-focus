@@ -1,6 +1,6 @@
 {
   "name": "angular-auto-focus",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bullet-proof auto-focusing for Angular",
   "main": "angular-auto-focus.js",
   "repository": {
